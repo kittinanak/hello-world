@@ -1,2 +1,2 @@
 # hello-world
-fis=rst repository
+fisrst repository
